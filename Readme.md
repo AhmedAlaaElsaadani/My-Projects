@@ -15,6 +15,13 @@ and real-time AI products for clients across the **MENA region**.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AhmedAlaaElsaadani)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedalaaelsaadani@gmail.com)
 
+<br/>
+
+![Production apps](https://img.shields.io/badge/Production_apps-15%2B-2ea44f?style=flat-square)
+![SaaS products](https://img.shields.io/badge/SaaS_products-5-8957e5?style=flat-square)
+![Published paper](https://img.shields.io/badge/Published_paper-IEEE_2025-1f6feb?style=flat-square)
+![Bilingual](https://img.shields.io/badge/Bilingual-AR%20%2F%20EN-26a69a?style=flat-square)
+
 </div>
 
 ---
@@ -158,15 +165,6 @@ Deep-learning research on **protein–protein interaction (PPI) site prediction*
 | **Talabat API** | Restaurant ordering — menu, orders, delivery | ASP.NET, EF, Stripe, Swagger | 🌐 [code](https://github.com/AhmedAlaaElsaadani/Talapat-APIs) | ![hand](https://img.shields.io/badge/hand--coded-57606a) |
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedAlaaElsaadani&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAlaaElsaadani&layout=compact&hide_border=true&langs_count=8)
-
-</div>
 
 ## 📫 Contact
 - **GitHub:** [@AhmedAlaaElsaadani](https://github.com/AhmedAlaaElsaadani)
