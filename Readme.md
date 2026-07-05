@@ -95,6 +95,7 @@ I like owning a product **end-to-end**:
 | **Tamiuzz — E-commerce** | Online store with live storefront | Next.js 16, TypeScript | 🟢 [shop.tamiuzz.com](https://shop.tamiuzz.com/ar) · 🔒 | ![AI](https://img.shields.io/badge/AI--assisted-8957e5) |
 | **IZITechs — Company Site** | Corporate website (maps, i18n) | React/Vite · Next.js + MUI | 🟢 [izitechs.com](https://izitechs.com) · 🔒 | ![AI](https://img.shields.io/badge/AI--assisted-8957e5) |
 | **Hosoun (حصون)** | Integrated e-learning platform for students & teachers (all school stages); **Next.js v2 in progress** | Next.js · React, Vite | 🟢 [hosoun.com](https://hosoun.com) · 🔒 | ![hand](https://img.shields.io/badge/hand--coded-57606a) |
+| **Bakr Academy** | Online learning academy — courses & lessons (Arabic) | Next.js | 🟢 [bakr-academy.com](https://bakr-academy.com/ar) · 🔒 | ![AI](https://img.shields.io/badge/AI--assisted-8957e5) |
 | **Alto** | Company & services site | React, Formik | 🟢 [alto-ti.com](https://alto-ti.com) · 🔒 | ![hand](https://img.shields.io/badge/hand--coded-57606a) |
 | **Khairat Al Abidin** | Import/export company site | React 19, Vite | 🟢 [kh-elabdin.com](https://kh-elabdin.com) · 🔒 | ![hand](https://img.shields.io/badge/hand--coded-57606a) |
 | **APT Factory** | Company website | React, Vite | 🟢 [aptf.com.sa](https://aptf.com.sa) · 🔒 | ![hand](https://img.shields.io/badge/hand--coded-57606a) |
